@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ジャックポットサッドガール",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-24T16:38:06.339716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_ジャックポットサッドガール_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_ジャックポットサッドガール_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール - Jackpot Sad Girl (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)",
+      "artist": "Nightcord at 25:00",
+      "has_synced": true,
+      "path": "select/03_ジャックポットサッドガール_-_Jackpot_Sad_Girl_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク)_Nightcord_at_25_00.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク",
+      "has_synced": true,
+      "path": "select/04_ジャックポットサッドガール_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール (feat. 宵崎奏",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/05_ジャックポットサッドガール_(feat._宵崎奏_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール (Mafuyu)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/06_ジャックポットサッドガール_(Mafuyu)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール (instrumental)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/07_ジャックポットサッドガール_(instrumental)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール / Vocal:朝比奈 まふゆ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/08_ジャックポットサッドガール___Vocal_朝比奈_まふゆ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ジャックポットサッドガール",
+      "artist": "25時、ナイトコードで。 (楠木ともり, 田辺留依, 鈴木みのり, 佐藤日向) Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/09_ジャックポットサッドガール_25時、ナイトコードで。_(楠木ともり,_田辺留依,_鈴木みのり,_佐藤日向)_Feat._初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャックポットサッドガール",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_ジャックポットサッドガール_syudou.txt"
+    }
+  ]
+}
